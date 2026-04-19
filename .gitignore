@@ -1,0 +1,17 @@
+# Large data files
+pract_3/1.zip
+pract_3/model.bin
+pract_3/model.txt
+EXIST2026_training.zip
+EXIST2026_training_subset.json.zip
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv

@@ -1,0 +1,49 @@
+{
+    "algorithm": {
+        "command": null,
+        "id": 0,
+        "name": "Gensim Continuous Skipgram",
+        "tool": "Gensim",
+        "url": "https://github.com/RaRe-Technologies/gensim",
+        "version": "3.6"
+    },
+    "contents": [
+        {
+            "filename": "model.txt",
+            "format": "text"
+        },
+        {
+            "filename": "meta.json",
+            "format": "json"
+        }
+    ],
+    "corpus": [
+        {
+            "NER": true,
+            "case preserved": true,
+            "description": "Google News 2013",
+            "id": 7,
+            "language": "eng",
+            "lemmatized": false,
+            "public": false,
+            "stop words removal": "NLTK",
+            "tagger": "Stanford Core NLP v. 3.6.0",
+            "tagset": "UPoS",
+            "tokens": 100000000000,
+            "tool": null,
+            "url": null
+        }
+    ],
+    "creators": [
+        {
+            "email": "andreku@ifi.uio.no",
+            "name": "Andrey Kutuzov"
+        }
+    ],
+    "dimensions": 300,
+    "handle": "http://vectors.nlpl.eu/repository/20/1.zip",
+    "id": 1,
+    "iterations": null,
+    "vocabulary size": 2883863,
+    "window": null
+}
